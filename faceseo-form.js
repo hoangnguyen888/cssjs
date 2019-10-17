@@ -139,7 +139,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://faceseo.vn";
+	window.location="https://nguyenttcland999.blogspot.com/";
 var linkhientai=window.location;
 if(getCookie(linkhientai)){
                 	
